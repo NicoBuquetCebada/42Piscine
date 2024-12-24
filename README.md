@@ -1,4 +1,4 @@
-## Hello! This is the repository where I store all the proyects I did during the 42 piscine
+## Hi! This is the repository where I store all the proyects I did during the 42 piscine
 
 ### <img width="27" heigth="27" src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png">
 42 is a global, tuition-free programming school focused on peer-to-peer learning, real-world projects, and fostering creativity and autonomy.
